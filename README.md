@@ -1,4 +1,4 @@
-X-Man is a background framework. This mining machine has a SQL injection vulnerability, which can cause data leakage
+X-Man is a background system developed based on the ThinkPHP framework. Due to the failure to comply with the ThinkPHP framework development standard, the SQL injection vulnerability was caused when it landed。
 
 Poc：
 http://ip/admin/login/check
