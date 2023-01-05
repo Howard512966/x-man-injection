@@ -17,4 +17,4 @@ file：https://github.com/imxiny/x-man/blob/master/Application/Admin/Controller/
 ![Image](https://user-images.githubusercontent.com/65259880/203694740-6d2af099-1bae-4343-8ee8-6ece50cfa261.png)
 
 
-There is no filter of the parameter of the 60th line，So we can directly stitch SQL statements。
+There is no filter of the parameter of the 60th line，So we can construct a SQL injecting POC with the ThinkPHP framework。
